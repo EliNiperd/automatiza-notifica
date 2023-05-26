@@ -1,1 +1,1 @@
-OK
+App para automatización de envío de correos electrónicos con Python
